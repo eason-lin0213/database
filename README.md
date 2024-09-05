@@ -1,6 +1,6 @@
 # database
 Lecturer：蔡芸琤老師
 
-Name：Yen-Ku, Liu
+Name：林易辰
 
-Department and Grade：TAHRD 2nd Grade
+Department and Grade：TAHRD 3rd Grade
