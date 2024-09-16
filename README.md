@@ -5,4 +5,5 @@ Name：林易辰
 
 Department and Grade：TAHRD 3rd Grade
 
-### HW1 - ERD and Databse Create
+### HW1 - Databse Create
+https://youtu.be/MOpjxAwbDgw
