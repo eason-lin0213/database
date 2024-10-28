@@ -14,6 +14,7 @@
 
 ### ER diagram
 ![image](https://github.com/eason-lin0213/database/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-26%20224444.png)
-## HW3
+## HW3 - [影片連結](https://youtu.be/b4cX1RLSY8E)
+#### 前端Web應用程式來演示建立操作，切換回MongoDB Compass來顯示新插入的資料
 
 ## HW4
