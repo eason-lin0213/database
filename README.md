@@ -19,4 +19,5 @@
 ### [HW3 code](https://github.com/eason-lin0213/database/tree/main/noSQLHW3)
 #### 前端Web應用程式來演示建立操作，切換回MongoDB Compass來顯示新插入的資料
 
-## HW4
+## HW4 - [影片連結](https://youtu.be/bx9hSvMmb4U)
+#### 執行Create操作，返回MongoDB Compass，顯示資料已建立。執行Update操作，返回MongoDB Compass顯示資料已更新。執行刪除操作，返回MongoDB Compass顯示資料已刪除。透過在同一Web中的任意位置顯示資料來示範讀取操作。
